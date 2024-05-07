@@ -1,0 +1,17 @@
+/* body {
+    background-color: red;
+} */
+
+.card-container {
+    display: flex;
+    align-items: center;
+}
+.product-card {
+    margin: 15px;
+    display: flex;
+    flex-direction: column;
+    flex-basis: 200px;
+}
+/* img {
+    width: 200px;
+} */
